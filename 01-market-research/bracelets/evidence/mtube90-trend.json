@@ -1,0 +1,731 @@
+{
+  "queryEvidence": "mtube90.json",
+  "data": {
+    "terapeakResearch": {
+      "salesTrends": {
+        "performanceMetrics": [
+          {
+            "avgPrice": {
+              "amount": "12.74",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-10T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "12.74",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-11T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "12.74",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-12T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-13T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "13.28",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-14T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "13.28",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-15T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "13.28",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-16T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "11.80",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-17T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "11.80",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-18T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "26.91",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-19T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.09",
+              "currency": "USD"
+            },
+            "itemSoldCount": "5",
+            "soldDateTime": "2026-07-20T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "11.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-21T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.46",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-07-22T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.46",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-23T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "40.40",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-07-24T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "40.40",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-25T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "40.40",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-26T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.50",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-07-27T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.50",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-28T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-29T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-07-30T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "12.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-07-31T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-01T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "7.95",
+              "currency": "USD"
+            },
+            "itemSoldCount": "11",
+            "soldDateTime": "2026-08-02T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.61",
+              "currency": "USD"
+            },
+            "itemSoldCount": "4",
+            "soldDateTime": "2026-08-03T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.61",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-04T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "50.59",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-05T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.92",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-06T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.92",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-07T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "11.29",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-08T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-09T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.27",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-10T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.27",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-11T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.27",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-12T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.44",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-13T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.74",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-08-14T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-15T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.18",
+              "currency": "USD"
+            },
+            "itemSoldCount": "7",
+            "soldDateTime": "2026-08-16T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.18",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-17T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-18T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-19T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.60",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-08-20T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-21T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.31",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-22T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.50",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-23T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "12.49",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-08-24T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "12.49",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-08-25T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-26T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-27T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.70",
+              "currency": "USD"
+            },
+            "itemSoldCount": "7",
+            "soldDateTime": "2026-08-28T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-08-29T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.33",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-08-30T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.26",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-08-31T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.69",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-09-01T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.65",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-09-02T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.13",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-09-03T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-04T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.95",
+              "currency": "USD"
+            },
+            "itemSoldCount": "4",
+            "soldDateTime": "2026-09-05T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.22",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-06T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.92",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-09-07T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-08T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-09-09T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-10T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.80",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-09-11T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-12T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-09-13T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-09-14T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.79",
+              "currency": "USD"
+            },
+            "itemSoldCount": "5",
+            "soldDateTime": "2026-09-15T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "11.50",
+              "currency": "USD"
+            },
+            "itemSoldCount": "5",
+            "soldDateTime": "2026-09-16T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.86",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-09-17T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.09",
+              "currency": "USD"
+            },
+            "itemSoldCount": "4",
+            "soldDateTime": "2026-09-18T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "6",
+            "soldDateTime": "2026-09-19T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.51",
+              "currency": "USD"
+            },
+            "itemSoldCount": "8",
+            "soldDateTime": "2026-09-20T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-09-21T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-09-22T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.01",
+              "currency": "USD"
+            },
+            "itemSoldCount": "5",
+            "soldDateTime": "2026-09-23T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.01",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-09-24T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.61",
+              "currency": "USD"
+            },
+            "itemSoldCount": "5",
+            "soldDateTime": "2026-09-25T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.90",
+              "currency": "USD"
+            },
+            "itemSoldCount": "11",
+            "soldDateTime": "2026-09-26T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.50",
+              "currency": "USD"
+            },
+            "itemSoldCount": "4",
+            "soldDateTime": "2026-09-27T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.59",
+              "currency": "USD"
+            },
+            "itemSoldCount": "3",
+            "soldDateTime": "2026-09-28T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "6",
+            "soldDateTime": "2026-09-29T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "5.00",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-09-30T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.89",
+              "currency": "USD"
+            },
+            "itemSoldCount": "2",
+            "soldDateTime": "2026-10-01T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-10-02T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "10.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "0",
+            "soldDateTime": "2026-10-03T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "9.20",
+              "currency": "USD"
+            },
+            "itemSoldCount": "7",
+            "soldDateTime": "2026-10-04T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-10-05T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.99",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-10-06T16:00:00Z"
+          },
+          {
+            "avgPrice": {
+              "amount": "8.79",
+              "currency": "USD"
+            },
+            "itemSoldCount": "1",
+            "soldDateTime": "2026-10-07T16:00:00Z"
+          }
+        ]
+      }
+    }
+  }
+}
